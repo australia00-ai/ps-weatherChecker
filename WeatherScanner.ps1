@@ -33,7 +33,7 @@ $BagerhatLon  = 89.7895
 # -----------------------------
 # NTFY TOPIC
 # -----------------------------
-$NtfyTopic = "temperatureChecker00998"
+$NtfyTopic = "*****"
 
 # -----------------------------
 # CHECK INTERVAL
